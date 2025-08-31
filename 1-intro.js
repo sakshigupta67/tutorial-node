@@ -7,4 +7,4 @@ else{
     console.log('large number');
 }
 
-console.log(`hey it's my first node node !!!`)
+console.log(`hey it's my first node !!!`)
