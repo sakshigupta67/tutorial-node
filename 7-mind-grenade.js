@@ -7,5 +7,5 @@ function addValues(){
 }
 addValues();
 
-// if we invoke the function then no need to assign a new variable to use .require
+// if we invoke the function then no need to assign a new variable to use require
   
