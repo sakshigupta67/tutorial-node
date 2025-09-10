@@ -1,1 +1,6 @@
 /node_modules
+
+
+// as we are not pushing node modules then how someone will gonna clone this repo in their pc  , then how it will work 
+
+// here comes the pacakage.json  importance , we have pushed this file then the user need to run npm install and luckily all node modules will come in package becuse of package.json dependencies
