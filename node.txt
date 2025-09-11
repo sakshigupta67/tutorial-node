@@ -17,3 +17,16 @@ npm enables us to do three things
 
 
  ✅✅ git init --> git add . --> git commit -m"first commit"
+
+
+ 🌳🌳 FOR  ANY dependencies ,  "lodash": "^4.17.21" --> MAJOR.MINOR.PATCH
+
+ Major release 4
+Minor release 17
+Patch release 21
+Breaking change happens when major release changes to 5
+
+"lodash": "^4.17.21" --> Accept any newer minor or patch updates
+"lodash": "~4.17.21" --> accept only path updates only
+"lodash": "4.17.21" --> lock to exact version
+

@@ -1,12 +1,17 @@
+//❤️❤️NPM -> node package manager , npx --> node package execute
+
+
 //npm --version
 
-// local dependency - use it only in this particular project
+// local dependency like lodash - use it only in this particular project
 // npm i <packageName>
 
 
-//global dependency - use it in any project
+//global dependency like nodemon - use it in any project
 // npm install -g <packageName> 
 // sudo npm install -g <packageName> (mac)
+
+// in react , we use npx create-react-app shopping  ---> then this npx can run the cli tool(create-reacta-app) without creting it globally
 
 // package.json - manifest this file (stores important info about project/package)
 // manual approach (create package.json in the root , create properties etc)
@@ -29,3 +34,4 @@ console.log(newItems)
 console.log('hello word')
 
 // if i change anything in the hello word , the devdependency nodemon restarts the  app automatically , no need to write npm run dev or npm start again
+
