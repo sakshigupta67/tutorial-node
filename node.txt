@@ -1,6 +1,8 @@
 npm --> node package module 
 npmjs.com
 
+🤍🤍 to run --> node app.js OR npm start OR npm run dev
+
 react  is hosted on node 
 
 npm enables us to do three things
