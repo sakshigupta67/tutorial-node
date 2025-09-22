@@ -13,7 +13,7 @@ npm enables us to do three things
 
  package , dependencies , modules are all same
 
- ✅ there is no quality control on npm registry , antone can publish anything
+ ✅ there is no quality control on npm registry , anyone can publish anything
 
 
  ✅✅ git init --> git add . --> git commit -m"first commit"

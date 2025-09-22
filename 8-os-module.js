@@ -2,7 +2,7 @@ const os =require('os')
 // const os =require('./os') ❌❌
 
 
-// os module provides very useeful methods to interact with operating system as well as the server
+// os module provides very useful methods to interact with operating system as well as the server
 
 
 //info about current user

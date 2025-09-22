@@ -31,7 +31,7 @@ const items = [1, [2, [3, [4]]]]
 
 const newItems =_.flattenDeep(items)
 console.log(newItems)
-console.log('hello word')
+console.log('helloo word')
 
 // if i change anything in the hello word , the devdependency nodemon restarts the  app automatically , no need to write npm run dev or npm start again
 
