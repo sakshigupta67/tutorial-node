@@ -46,4 +46,5 @@ console.log('starting next task')
 
 
 // differnce btwn asyn & sync 
-//  but this async code is little messy , so we will use async await or prmise s
+//  but this async code is little messy , so we will use async await or prmises
+
